@@ -50,7 +50,23 @@
                     </ul>
                 </nav>    
             </div>
-            <div class="stage"></div>
+            <div class="stage">
+                <form action="scripts.js"> <!--To do: JS function to send email-->
+                    <div class="form-group">
+                        <label for="Name">Name:</label>
+                        <input type="text" class="form-control" id="Name">
+                    </div>
+                    <div class="form-group">
+                        <label for="Email">Email:</label>
+                        <input type="text" class="form-control" id="Name">
+                    </div>
+                    <div class="form-group">
+                        <label for="Message">Message:</label>
+                        <textarea  class="form-control" id="Message"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
     </div>
     
 </body>
