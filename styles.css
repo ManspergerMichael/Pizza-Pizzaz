@@ -23,23 +23,24 @@
 .navbar button{
     display: inline;
 }
+/* 
+    #stage hangles the style of the stage in the main page
+    .stage handles the styles of the stage in the rest of the page
+ */
+#stage{
+    background-color: green;
+    height: 400px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+}
 .stage{
     background-color: green;
     height: 400px;
     margin-left: 150px;
     margin-right: 150px;
     margin-bottom: 150px;
-    overflow-y: scroll;
-}
-.menuItem{
-
-}
-.menuItem h2{
-    text-align: center;
-}
-.menuItem p{
-    text-align: center;
-    font-size: 16px;
+    overflow-y: auto;
 }
 p{
     text-align: center;
