@@ -39,9 +39,14 @@
     margin-bottom: 150px;
     overflow-y: auto;
 }
-p{
-    text-align: center;
-    font-size: 25px;
+.locationCard{
+    
+}
+.locationInfo{
+
+}
+.locationImg{
+
 }
 img{
     width: 300px;
