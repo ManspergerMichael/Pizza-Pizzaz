@@ -40,13 +40,15 @@
     overflow-y: auto;
 }
 .locationCard{
-    
+    margin: auto;
+    width: 50%;
 }
 .locationInfo{
-
+ float:left;
 }
 .locationImg{
-
+    vertical-align: top;
+    float: right;
 }
 img{
     width: 300px;
