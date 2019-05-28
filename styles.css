@@ -24,14 +24,14 @@
     #stage hangles the style of the stage in the main page
     .stage handles the styles of the stage in the other pages
 */
-#stage{
+#stageMain{
     background-color: green;
     height: 400px;
     margin-left: 150px;
     margin-right: 150px;
     margin-bottom: 150px;
 }
-.stage{
+.stageOther{
     background-color: green;
     height: 400px;
     margin-left: 150px;
