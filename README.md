@@ -1,5 +1,10 @@
 # Pizza-Pizzaz
-My personal front-end project that I plan to show to the owner of Pizza Pizzaz.
-I am colaborating with an artist who will provide artwork for the final product.
+Proof of consept for a design for a website for Pizza Pizzaz.
+
+So far I have a basic wireframe with navigation and basic styles.
+
+Setup:
+Unzip the directory and then open index.html.
+
 
 Using: HTML, CSS, JavaScript, jQuery, Bootstrap 4
