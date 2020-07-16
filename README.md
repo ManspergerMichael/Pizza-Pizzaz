@@ -1,7 +1,5 @@
 # Pizza-Pizzaz
-Proof of consept for a design for a website for Pizza Pizzaz.
-
-So far I have a basic wireframe with navigation and basic styles.
+Proof of consept for a design for a website for a local pizza resturant.
 
 Setup:
 Unzip the directory and then open index.html.
