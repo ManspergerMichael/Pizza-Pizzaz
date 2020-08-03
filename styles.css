@@ -1,73 +1,8 @@
-*{
-    padding:0px;
-    margin:0px;
-}
-.container-fluid{
-    background-color: red;
-    width: 100%;
-    height: 100%;
-}
-.title{
-    background-color: blue;
-    height: 5%;
-    margin-left: 150px;
-    margin-right: 150px;    
-}
-.navigationBar{
-    background-color: yellow;
-    height: 5%;
-    margin-left: 150px;
-    margin-right: 150px;
-}
-
-/* 
-    #stage hangles the style of the stage in the main page
-    .stage handles the styles of the stage in the other pages
-*/
-.stageMain{
-    background-color: green;
-    height: 400px;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-bottom: 150px;
-}
-.stageHidden{
-    background-color: black;
-    height: 400px;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-bottom: 150px;
-}
-
-.stageOther{
-    background-color: green;
-    height: 400px;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-bottom: 150px;
-    overflow-y: auto;
-}
-.locationCard{
-    margin-left: 10%;
-    width: 50%;
-    display: inline-flex;
-}
-.locationInfo{
- float:left;
-}
-.locationImg{
-    vertical-align: top;
-    float: right;
-    padding: 10px;
-}
-img{
-    width: 300px;
-    height: 300px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-p{
-    text-align: center;
+body{
+    background-image: url('Pictures/green-light-stage-at-a-concert-venue_800.jpg');
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
