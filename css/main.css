@@ -1,0 +1,26 @@
+/* 
+Google fonts
+link stylesheet in index head and format rules in the body selector as shown.
+Other font CDN's are available
+*/
+body{
+    font-family: 'Nunito', sans-serif;
+}
+/* 
+!important - Overrides bootstrap classes 
+#skills{
+    padding: 400px 0!important;
+}
+*/
+/* using a height class and the properties below I can control the height of a section */
+.height{
+    /* height: 1000px; */
+    min-height: 100vh;
+}
+.height-40{
+    min-height: 40vh;
+}
+img-size{
+    width: 18rem;
+    height: 6rem;
+}
